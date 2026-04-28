@@ -1,6 +1,5 @@
 *.dmp
 *.tmp
-*.in
 *.out
 *.clo
 *.aei

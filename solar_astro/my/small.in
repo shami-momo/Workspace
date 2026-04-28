@@ -1,0 +1,7 @@
+)O+_06 Small-body initial data  (WARNING: Do not delete this line!!)
+) Lines beginning with `)' are ignored.
+)---------------------------------------------------------------------
+ style (Cartesian, Asteroidal, Cometary) = Asteroidal
+)--------------------------------------------d or D is not matter--0d0 is possible too--
+ KAMOOALEWA  ep=2458400.5d0
+ 1.0014159857665010d0 0.1037156611041802d0 7.7783947368400277d0 306.6606663202733216d0 66.2987761345873139d0 5.3773877114164916d0 0.d0 0.d0 0.d0
