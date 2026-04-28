@@ -1,12 +1,8 @@
 *.dmp
 *.tmp
 *.out
-*.clo
 *.aei
-*.gnu
 element6
 mercury6
 close6
-mercury/
-*.dSYM
 .vscode/
