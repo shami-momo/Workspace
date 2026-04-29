@@ -8,13 +8,14 @@
 )---------------------------------------------------------------------
  type of elements (central body, barycentric, Jacobi) = Central
  minimum interval between outputs (days) = 0.0d0
- express time in days or years = years
+ express time in days or years = days
  express time relative to integration start time = yes
 )---------------------------------------------------------------------
 ) Output format? (e.g. a8.4 => semi-major axis with 8 digits & 4 dec. places)
  p13e x21.16 y21.16 z21.16
 )---------------------------------------------------------------------
 ) Which bodies do you want? (List one per line or leave blank for all bodies)
- EARTHMOO
+ EARTH
  KAMOOALEWA
  2023FW13
+ APOPHIS

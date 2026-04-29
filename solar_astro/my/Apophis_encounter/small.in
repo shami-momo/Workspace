@@ -1,0 +1,7 @@
+)O+_06 Small-body initial data  (WARNING: Do not delete this line!!)
+) Lines beginning with `)' are ignored.
+)---------------------------------------------------------------------
+ style (Cartesian, Asteroidal, Cometary) = Asteroidal
+)--------------------------------------------d or D is not matter--0d0 is possible too--
+ APOPHIS    ep=2462239.5d0
+  0.9213887942467650d0 0.1956772965290144d0 3.4227059151236552d0 126.6230781795259048d0 203.7857099738982924d0 252.0309445149459009d0 0.d0 0.d0 0.d0
