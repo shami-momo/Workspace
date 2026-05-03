@@ -2,11 +2,14 @@ import control as ct
 import matplotlib.pyplot as plt
 
 # zpk(zeros, poles, gain)
-zeros = [-1]
-poles = [0, 0, -9]
-gain = 1
+#zeros = [-1]
+#poles = [0, 0, -9]
+#gain = 1
+#sys = ct.zpk(zeros, poles, gain)
 
-sys = ct.zpk(zeros, poles, gain)
+num = [1, 1]
+den = [1, 3, 12, -16, 0]
+sys = ct.TransferFunction(num, den)
 
 fig = plt.figure(figsize=(15, 8))
 
