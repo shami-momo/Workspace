@@ -2,10 +2,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 plt.rcParams.update({
-    "font.size": 14,
+    "font.size": 7,
     "figure.dpi": 300,
-    "axes.labelsize": 16,
-    "axes.titlesize": 18
+    "axes.labelsize": 7,
+    "axes.titlesize": 7
 })
 
 # 궤도 및 물리 상수
@@ -24,7 +24,7 @@ da_dt_max = np.max(np.abs(da_dt))
 da_dt_scaled = da_dt / da_dt_max if da_dt_max != 0 else da_dt
 
 # 그래프
-plt.figure(figsize=(13, 9))
+plt.figure(figsize=(6, 4))
 plt.pcolormesh(f_deg, phi_deg, da_dt_scaled, shading='auto', cmap='RdBu_r')
 cbar = plt.colorbar()
 cbar.set_label(r'Normalized Change Rate of Semi-major Axis $\dot{a}/\dot{a}_{\max}$', rotation=270, labelpad=25)

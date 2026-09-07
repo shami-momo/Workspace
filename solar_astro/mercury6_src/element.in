@@ -7,13 +7,13 @@
  xv.out
 )---------------------------------------------------------------------
  type of elements (central body, barycentric, Jacobi) = Central
- minimum interval between outputs (days) = 365.2d1
- express time in days or years = years
+ minimum interval between outputs (days) = 0.0d0
+ express time in days or years = days
  express time relative to integration start time = yes
 )---------------------------------------------------------------------
 ) Output format? (e.g. a8.4 => semi-major axis with 8 digits & 4 dec. places)
- p13e l13.5e a8.5 e8.6 i8.4 g8.4 n8.4 m13e 
-) a21.16 x21.16 y21.16 z21.16
+ x14.10 y14.10 z14.10 u14.10 v14.10 w14.10 a14.10 e14.10 i14.10 g14.10 n14.10 l14.10
 )---------------------------------------------------------------------
 ) Which bodies do you want? (List one per line or leave blank for all bodies)
-)
+ EARTH
+ 2002AA29
