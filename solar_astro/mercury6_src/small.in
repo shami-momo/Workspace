@@ -1,7 +1,7 @@
 )O+_06 Small-body initial data  (WARNING: Do not delete this line!!)
 ) Lines beginning with `)' are ignored.
 )---------------------------------------------------------------------
- style (Cartesian, Asteroidal, Cometary) = Asteroidal
+ style (Cartesian, Asteroidal, Cometary) = Cartesian
 )--------------------------------------------d or D is not matter--0d0 is possible too--
- 2002AA29   ep=2461041.5d0
-  0.9926075609998342d0 0.0130113040254415d0 10.7482401458019208d0 101.8314112466731984d0 106.3483835307658012d0 339.3753188744169051d0 0.d0 0.d0 0.d0
+ 2002AA29     ep=2662656.50019d0
+-0.0855990587d0   1.0213869917d0  -0.0132750144d0  -0.0164185783d0  -0.0017821652d0   0.0030607470d0 0.0d0 0.0d0 0.0d0
