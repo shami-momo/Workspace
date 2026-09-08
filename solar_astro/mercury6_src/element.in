@@ -12,8 +12,8 @@
  express time relative to integration start time = no
 )---------------------------------------------------------------------
 ) Output format? (e.g. a8.4 => semi-major axis with 8 digits & 4 dec. places)
- x14.10 y14.10 z14.10 u14.10 v14.10 w14.10
+ x16.10 y16.10 z16.10 u16.10 v16.10 w16.10 a16.10 e16.10 i16.10 g16.10 n16.10 l16.10
 )---------------------------------------------------------------------
 ) Which bodies do you want? (List one per line or leave blank for all bodies)
-2002AA29
-EARTH
+ EARTH
+ 2002AA29
