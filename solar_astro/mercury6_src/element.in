@@ -12,8 +12,10 @@
  express time relative to integration start time = no
 )---------------------------------------------------------------------
 ) Output format? (e.g. a8.4 => semi-major axis with 8 digits & 4 dec. places)
- x16.10 y16.10 z16.10 u16.10 v16.10 w16.10 a16.10 e16.10 i16.10 g16.10 n16.10 l16.10
+ x22.16 y22.16 z22.16 u22.16 v22.16 w22.16
 )---------------------------------------------------------------------
 ) Which bodies do you want? (List one per line or leave blank for all bodies)
- EARTH
- 2002AA29
+SPACECRAFT-run3
+SPACECRAFT-tangent-3
+SPACECRAFT-normal-3
+SPACECRAFT-phase-3
