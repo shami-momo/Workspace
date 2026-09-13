@@ -1,6 +1,6 @@
 from astroquery.jplhorizons import Horizons
 
-START = 2487524.7324121264
+START = 2461041.5
 DAYS_PER_JULIAN_YEAR = 365.25
 
 BIG = {

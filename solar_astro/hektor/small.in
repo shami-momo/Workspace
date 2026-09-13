@@ -1,7 +1,0 @@
-)O+_06 Small-body initial data  (WARNING: Do not delete this line!!)
-) Lines beginning with `)' are ignored.
-)---------------------------------------------------------------------
- style (Cartesian, Asteroidal, Cometary) = Asteroidal
-)--------------------------------------------d or D is not matter--0d0 is possible too--
- HEKTOR     ep=2461159.5d0
-  5.2768254774850840d0 0.0243380253800434d0 18.1472992810445213d0 181.1494672717840047d0 342.8020743195012869d0 21.7136169915900012d0 0.d0 0.d0 0.d0

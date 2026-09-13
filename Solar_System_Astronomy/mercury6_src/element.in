@@ -9,12 +9,11 @@
  type of elements (central body, barycentric, Jacobi) = Central
  minimum interval between outputs (days) = 0.0d0
  express time in days or years = days
- express time relative to integration start time = yes
+ express time relative to integration start time = no
 )---------------------------------------------------------------------
 ) Output format? (e.g. a8.4 => semi-major axis with 8 digits & 4 dec. places)
- p13e x21.16 y21.16 z21.16 u21.16 v21.16 w21.16 a21.16 e21.16 i21.16 
+ x22.16 y22.16 z22.16 u22.16 v22.16 w22.16
 )---------------------------------------------------------------------
 ) Which bodies do you want? (List one per line or leave blank for all bodies)
- EARTH
- 2002AA29
- APOPHIS
+2002AA29
+EARTH
